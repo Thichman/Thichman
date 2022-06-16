@@ -1,11 +1,10 @@
 ### Hello I am a programmer with current projects in java, C and Python.
+### ⚡ I am currently job searching and are open to opportunities!
+###  📫 How to reach me: tysonhichman@gmail.com
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/tyson-hichman" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
 </p>
 
 <!--
