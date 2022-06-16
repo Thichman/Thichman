@@ -1,4 +1,4 @@
-### Hello I am a programmer with current projects in java, C and Python.
+### Hello, I am a programmer with current projects in java, C and Python.
 ### ⚡ I am currently job searching and are open to opportunities!
 ###  📫 How to reach me: tysonhichman@gmail.com
 ### Connect with me: 
