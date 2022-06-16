@@ -2,6 +2,7 @@
 ### ⚡ I am currently job searching and are open to opportunities!
 ###  📫 How to reach me: tysonhichman@gmail.com
 <p>
+  ### Connect with me: 
   <a href="https://www.linkedin.com/in/tyson-hichman" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
