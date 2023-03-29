@@ -1,5 +1,8 @@
 ### Hello, I am a programmer with current projects in java, javascript, C and Python.
-### ⚡ I am currently seeking professional opportunities to apply my skills!
+### ⚡ I am currently a analytics manager for Drive Social Media.
+### Current AI enthusiest looking at the best ways to integrate AI models into my work.
+### AI is going to revolutionize programming and all aspects of the human experience.
+### My goal is to create and optimize tools to further this progress.
 ###  📫 How to reach me: tysonhichman@gmail.com
 ### Connect with me: 
 <p> 
