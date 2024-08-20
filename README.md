@@ -2,7 +2,6 @@
 ### Current AI enthusiest looking at the best ways to integrate AI models into my work.
 ### AI is going to revolutionize programming and all aspects of the human experience.
 ### My goal is to create and optimize tools to further this progress.
-###  📫 How to reach me: tysonhichman@gmail.com
 ### Connect with me: 
 <p> 
   <a href="https://www.linkedin.com/in/tyson-hichman" rel="nofollow noreferrer">
